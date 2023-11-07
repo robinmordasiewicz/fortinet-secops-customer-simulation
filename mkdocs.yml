@@ -112,8 +112,8 @@ plugins:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
 
 nav:
-  - "Journey": one.md
-  - "Challenges": two.md
-  - "Solutions": three.md
-  - "Differentiators": four.md
-  - "Benefits": five.md
+  - "Journey": journey.md
+  - "Challenges": challenges.md
+  - "Solutions": solutions.md
+  - "Differentiators": differentiators.md
+  - "Benefits": benefits.md
