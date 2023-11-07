@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # SecOps Journey
 
 > Based on a customer’s SecOps journey, what are the three types of pitches you can share with an organization ?

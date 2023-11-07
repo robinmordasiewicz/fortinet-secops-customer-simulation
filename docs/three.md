@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Fortinet Solutions
 
 > What is the Fortinet Approach to security operations?

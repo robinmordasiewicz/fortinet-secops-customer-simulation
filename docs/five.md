@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # SecOps Benefits
 
 > What are the primary benefits of investing in Fortinet SecOps platform?

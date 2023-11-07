@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Differentiators
 
 > What are the unique differentiators of the Fortinet approach to SecOps?
