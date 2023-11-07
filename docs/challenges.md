@@ -2,7 +2,7 @@
 comments: true
 ---
 
-# Top Three Challenges
+# Challenges
 
 > What are the top three challenges faced by the security teams ?
 > What are the top three investment priorities that will help overcome security challenges ?
