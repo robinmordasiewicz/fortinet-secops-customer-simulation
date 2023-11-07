@@ -1,14 +1,16 @@
 # SecOps Journey
 
-> Based on the customer’s SecOps journey, what are the three types of pitches you can share with an organization?
+> Based on a customer’s SecOps journey, what are the three types of pitches you can share with an organization ?
 
 ## Awareness - Early Detection and Prevention
 
 Focus on the importance of security awareness training for all employees in the organization. It emphasizes the need to educate employees about common security threats, best practices for secure behavior, and the potential risks associated with negligence or lack of awareness. The pitch highlights how investing in security awareness can help prevent security incidents, protect sensitive data, and strengthen the overall security posture of the organization.
 
-- FortiMail
-- FortiEDR
-- FortiNDR
+!!! info inline end "Solutions"
+
+    - FortiMail
+    - FortiEDR
+    - FortiNDR
 
 ## Technology - Automation
 
