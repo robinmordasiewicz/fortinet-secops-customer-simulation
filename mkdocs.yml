@@ -13,8 +13,6 @@ extra:
 
 theme:
   name: material
-  logo: img/fortinet.svg
-  favicon: img/fortinet.svg
   custom_dir: docs/overrides
   icon:
     repo: fontawesome/brands/github
