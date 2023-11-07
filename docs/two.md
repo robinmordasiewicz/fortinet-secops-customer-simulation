@@ -1,6 +1,6 @@
 # Top Three Challenges
 
-What are the top three challenges faced by the security teams? What are the top three investment priorities that will help them overcome these security challenges?
+> What are the top three challenges faced by the security teams? What are the top three investment priorities that will help them overcome these security challenges?
 
 ## The top three challenges faced by security teams are:
 

@@ -1,6 +1,6 @@
 # Fortinet Solutions
 
-## What is the Fortinet Approach to security operations?
+> What is the Fortinet Approach to security operations?
 
 The Fortinet Approach to security operations is based on a comprehensive and integrated security fabric. It involves a combination of advanced technologies, threat intelligence, and automated processes to provide effective protection against cyber threats.
 
