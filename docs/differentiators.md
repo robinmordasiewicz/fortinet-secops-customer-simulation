@@ -4,7 +4,7 @@ comments: true
 
 # Differentiators
 
-> What are the unique differentiators of the Fortinet approach to SecOps?
+> What are the unique differentiators of the Fortinet approach to SecOps ?
 
 ## The unique differentiators of the Fortinet approach to SecOps include:
 

@@ -4,7 +4,7 @@ comments: true
 
 # SecOps Benefits
 
-> What are the primary benefits of investing in Fortinet SecOps platform?
+> What are the primary benefits of investing in Fortinet SecOps platform ?
 
 ## The primary benefits of investing in the Fortinet SecOps platform include:
 
