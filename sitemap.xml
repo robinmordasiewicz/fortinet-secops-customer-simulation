@@ -6,12 +6,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://robinmordasiewicz.github.io/fortinet-secops-customer-simulation/five/</loc>
+         <loc>https://robinmordasiewicz.github.io/fortinet-secops-customer-simulation/benefits/</loc>
          <lastmod>2023-11-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://robinmordasiewicz.github.io/fortinet-secops-customer-simulation/four/</loc>
+         <loc>https://robinmordasiewicz.github.io/fortinet-secops-customer-simulation/challenges/</loc>
+         <lastmod>2023-11-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://robinmordasiewicz.github.io/fortinet-secops-customer-simulation/differentiators/</loc>
+         <lastmod>2023-11-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://robinmordasiewicz.github.io/fortinet-secops-customer-simulation/journey/</loc>
          <lastmod>2023-11-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -21,17 +31,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://robinmordasiewicz.github.io/fortinet-secops-customer-simulation/one/</loc>
-         <lastmod>2023-11-07</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://robinmordasiewicz.github.io/fortinet-secops-customer-simulation/three/</loc>
-         <lastmod>2023-11-07</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://robinmordasiewicz.github.io/fortinet-secops-customer-simulation/two/</loc>
+         <loc>https://robinmordasiewicz.github.io/fortinet-secops-customer-simulation/solutions/</loc>
          <lastmod>2023-11-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
